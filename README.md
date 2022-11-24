@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tX8P1x_Jy2Uig64I1E5M3CxwmXl_g1rk/view?usp=sharing](https://drive.google.com/file/d/1tX8P1x_Jy2Uig64I1E5M3CxwmXl_g1rk/view?usp=sharing)
 
-- ⚡ Fun fact **I prefer working on commercial projects only.**
+- ⚡ Fun fact **I prefer working on commercial projects or Remote Job only.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
