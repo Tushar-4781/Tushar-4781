@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Commercial / Open-Source Projects**
 
-- 👨‍💻 Looking for portfolio ? - I would say WIP!! & coming soon... & after looking at that you will just say one word AMAZING!!
+- 👨‍💻 https://my-portfolio-virid-nine.vercel.app/
 
 - 💬 Ask me about **MERN, JAVA, Natural Language Processing, Machine Learning, Deep Learning**
 
