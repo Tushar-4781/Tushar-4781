@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Commercial / Open-Source Projects**
 
-- 👨‍💻 https://my-portfolio-virid-nine.vercel.app/
+- 👨‍💻 [[https://my-portfolio-virid-nine.vercel.app/](https://portfolio-sigma-flax-62.vercel.app/)](https://portfolio-sigma-flax-62.vercel.app/)
 
 - 💬 Ask me about **MERN, JAVA, Natural Language Processing, Machine Learning, Deep Learning**
 
